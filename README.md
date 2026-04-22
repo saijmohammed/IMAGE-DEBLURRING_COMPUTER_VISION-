@@ -37,5 +37,34 @@ The goal is to understand how image degradation works and how to reverse it usin
 
 ---
 
-## 📂 Project Structure
-https://docs.google.com/viewer?url=https://raw.githubusercontent.com/saijmohammed/IMAGE-DEBLURRING_COMPUTER_VISION-/main/Complete_Deblurring_Report.pdf
+## ⚙️ How It Works
+
+### 1️⃣ Blur Simulation
+We generate a **Point Spread Function (PSF)** to simulate motion blur.
+
+### 2️⃣ Add Noise
+Gaussian noise is added to simulate real-world conditions.
+
+### 3️⃣ Frequency Domain Processing
+The image is transformed using FFT.
+
+### 4️⃣ Wiener Filter
+We apply Wiener deconvolution to restore the image.
+
+---
+
+## 📊 Evaluation Metric
+
+We use:
+
+- **PSNR (Peak Signal-to-Noise Ratio)**  
+Higher PSNR = Better restoration quality
+
+---
+
+## 📄 Report
+
+👉 [📥 Download Full Report](https://raw.githubusercontent.com/saijmohammed/IMAGE-DEBLURRING_COMPUTER_VISION-/main/Complete_Deblurring_Report.pdf)
+
+
+
