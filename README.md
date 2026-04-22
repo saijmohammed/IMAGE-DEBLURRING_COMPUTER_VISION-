@@ -64,7 +64,7 @@ Higher PSNR = Better restoration quality
 
 ## 📄 Report
 
-👉 [📥 Download Full Report](https://raw.githubusercontent.com/saijmohammed/IMAGE-DEBLURRING_COMPUTER_VISION-/main/Complete_Deblurring_Report.pdf)
+👉 [📥 Download Full Report]([https://raw.githubusercontent.com/saijmohammed/IMAGE-DEBLURRING_COMPUTER_VISION-/main/Complete_Deblurring_Report.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/saijmohammed/IMAGE-DEBLURRING_COMPUTER_VISION-/main/Complete_Deblurring_Report.pdf))
 
 
 
